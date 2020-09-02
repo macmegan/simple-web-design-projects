@@ -22,10 +22,6 @@ ul {
   line-height: 1.7;
 }
 
-#subtitle {
-  text-align: center;
-  }
-
 .container {
   display: grid;
   place-items: center;
@@ -33,26 +29,36 @@ ul {
   padding: 1rem 1rem 0.5rem 1rem;
 }
 
-#image {
-  display: block;
-  width: 100%;
-  height: auto;
+.container2 {
+  float: right;
+  place-items: center;
+  background-color: rgba(45, 45, 45, 0.1);
+  margin: 1rem;
 }
 
-#image2 {
-  float: right;
+.tribute-info {
+  margin: 1.5rem 1.5rem 1rem 1.5rem;
+  line-height: 1.7;
+}
+
+#subtitle {
+  text-align: center;
+  }
+
+#image {
+  display: block;
+  max-width: 100%;
   height: auto;
-  width: 15rem;
-  min-width: 15rem;
-  padding-left: 2rem;
-  padding-bottom: 1.5rem;
 }
 
 #img-caption {
   text-align: center;
 }
 
-#tribute-info {
-  margin: 1.5rem 1.5rem 1rem 1.5rem;
-  line-height: 1.7;
+#image2 {
+  float: right;
+  height: auto;
+  width: 15rem;
+  max-width: 15rem;
+  padding: 1rem;
 }
