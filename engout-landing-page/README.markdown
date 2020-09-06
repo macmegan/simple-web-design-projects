@@ -1,5 +1,6 @@
 # EngOut Landing Page
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/macmegan/pen/eYZyBZK](https://codepen.io/macmegan/pen/eYZyBZK).
+A landing page for EngOut created on CodePen.
+URL: [https://codepen.io/macmegan/pen/eYZyBZK](https://codepen.io/macmegan/pen/eYZyBZK).
 
 
